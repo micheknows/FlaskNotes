@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c71911d-3d99-4d74-b8d2-8ed9822973b4" name="Changes" comment="Let's try adding all the files that were mysteriously excluded now.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/var/app-instance/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/venv/var/app-instance/database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685114151276</updated>
-      <workItem from="1685114155811" duration="20580000" />
+      <workItem from="1685114155811" duration="20970000" />
     </task>
     <task id="LOCAL-00001" summary="Let's try adding all the files that were mysteriously excluded now.">
       <created>1685136699930</created>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685136747680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Let's try adding all the files that were mysteriously excluded now.">
+      <created>1685137380864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685137380864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
